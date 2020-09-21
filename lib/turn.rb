@@ -46,3 +46,6 @@ end
   def move(board, user_input, character = "X")
   board[user_input] = character
 end
+
+def turn(board)
+  print 
