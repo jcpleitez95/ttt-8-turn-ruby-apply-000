@@ -47,6 +47,3 @@ end
   board[user_input] = character
 end
 
-def turn(board)
-  
-end
